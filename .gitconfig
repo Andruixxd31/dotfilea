@@ -1,0 +1,12 @@
+[user]
+	email = andruix93@gmail.com
+	name = Andruixxd31
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[alias]
+	br = branch
+	st = status
+	ci = commit
+	co = checkout
