@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/andruixxd/Documents/Dev/web-dev/web_fundamentals/typescript/typescript-tutorial'
+let g:netrw_dirhist_3='/home/andruixxd/Documents/universidad/noveno_semestre/web_apps/ajax/nojson2.txt'
+let g:netrw_dirhist_2='/home/andruixxd/Documents/Dev/swift/iOSClassExercises/7) GesturesSupport/GesturesSupport/Assets.xcassets'
+let g:netrw_dirhist_1='/home/andruixxd/Documents/universidad/invierno_21/lenguajes/GUI/src'
